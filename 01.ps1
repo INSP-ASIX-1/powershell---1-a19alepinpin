@@ -1,2 +1,2 @@
 #01.ps1 Escriu "Hello World" en PowerShell
-trtr
+Write-Output "Hello World"
